@@ -32,8 +32,8 @@ My ideal person in life ❤️
 Prophet Muhammad ﷺ said:
 
 > “Strive for that which will benefit you, seek help from Allah, and do not give up.”
->  — Sahih Muslim 2664
->
+> 
+> — Sahih Muslim 2664
 
 ## A note to myself
 
