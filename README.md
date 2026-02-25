@@ -27,10 +27,17 @@ Problem solving basics
 
 More topics will be added as I progress.
 
+## My favorite reminder ❤️
+
+“Strive for that which will benefit you, seek help from Allah, and do not give up.”
+— Prophet Muhammad ﷺ (Sahih Muslim 2664)
+
+Start date: 25 Feb 2026
+
 ## A note to myself
 
 There will be days when things feel difficult. On those days, I will still show up and do at least one problem.
 
 > “Stay consistent. Results will follow.”
 
-Start date: 25 Feb 2026
+Start date: 24 Feb 2026
