@@ -1,3 +1,4 @@
+// Day 01 practice
 import java.util.*;
 class SumOfTwoNumbers{
     public static void main(String[] args){
