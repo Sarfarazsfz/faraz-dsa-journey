@@ -27,12 +27,12 @@ Problem solving basics
 
 More topics will be added as I progress.
 
-## My favorite reminder ❤️
+My ideal person in life ❤️
 
-“Strive for that which will benefit you, seek help from Allah, and do not give up.”
-— Prophet Muhammad ﷺ (Sahih Muslim 2664)
+Prophet Muhammad ﷺ said:
 
-Start date: 25 Feb 2026
+> “Strive for that which will benefit you, seek help from Allah, and do not give up.”
+> — Sahih Muslim 2664
 
 ## A note to myself
 
