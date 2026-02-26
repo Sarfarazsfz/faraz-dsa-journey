@@ -1,3 +1,26 @@
+<!-- ======================= PREMIUM HEADER ======================= -->
+<h1 align="center">Hi 👋, I'm Faraz</h1>
+
+<h3 align="center">Java & Data Structures and Algorithms Journey</h3>
+
+<p align="center">
+  Building consistency • Improving problem solving • One day at a time
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sarfarazsfz/faraz-dsa-journey">
+    <img src="https://img.shields.io/badge/Focus-DSA%20in%20Java-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Sarfarazsfz/faraz-dsa-journey">
+    <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Sarfarazsfz/faraz-dsa-journey">
+    <img src="https://img.shields.io/badge/Goal-Consistency-orange?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 # DSA Journey in Java
 
 Hi, I'm Sarfaraz.
