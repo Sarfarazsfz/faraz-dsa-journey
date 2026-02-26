@@ -11,10 +11,9 @@ public class NoIsPositiveOrNegative {
         if(number > 0){
             System.out.println("Entered No is Positive");
         } else if(number == 0){
-            System.out.println(" Enterd No is Equal");
+            System.out.println(" Entered No is Equal");
         } else{
             System.out.println("Entered No is Negative");
         }
-
     }
 }
